@@ -1,0 +1,12 @@
+com/epam/learn/initial/InitialApplication.class
+com/epam/learn/initial/entity/Person.class
+com/epam/learn/initial/controller/PersonController.class
+com/epam/learn/initial/config/DevDatasourceConfig.class
+com/epam/learn/initial/config/CustomDataSourceConfig.class
+com/epam/learn/initial/actuator/CustomActuatorEndpoint.class
+com/epam/learn/initial/service/impl/PersonServiceImpl.class
+com/epam/learn/initial/actuator/CustomSecurityConfig.class
+com/epam/learn/initial/config/QADatasourceConfig.class
+com/epam/learn/initial/dao/PersonRepository.class
+com/epam/learn/initial/service/PersonService.class
+com/epam/learn/initial/config/ProfileConfig.class

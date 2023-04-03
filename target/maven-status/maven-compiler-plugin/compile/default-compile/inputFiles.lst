@@ -1,0 +1,12 @@
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/actuator/CustomSecurityConfig.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/service/impl/PersonServiceImpl.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/service/PersonService.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/entity/Person.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/dao/PersonRepository.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/actuator/CustomActuatorEndpoint.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/config/CustomDataSourceConfig.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/InitialApplication.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/config/ProfileConfig.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/config/QADatasourceConfig.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/controller/PersonController.java
+/Users/Alesia_Skarakhod/Alesia/course-projects/spring-app-actuator/src/main/java/com/epam/learn/initial/config/DevDatasourceConfig.java
